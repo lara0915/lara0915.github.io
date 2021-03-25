@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Welcome to Lara's Website"
+title:		           "Lara's Website"
 description:	       "a Jekyll theme for running a blog or publication"
 author:              "Paul Le"
 
